@@ -6,6 +6,6 @@ package main.java;
 public class StringCalculator {
 
     public int add(String numbersToAdd){
-        return 0;
+        return 1;
     }
 }
